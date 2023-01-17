@@ -1,6 +1,6 @@
 # Language Processing Compiler Construction
 
-This repo contains all the codes and implementations that I've written for my LPCC Course. Programs are coded in Python, and some of them are coded in LEX and YACC. 
+This repo contains all the codes and implementations that I've written for my LPCC Course. Programs are coded in Python, and some of them are coded in C (LEX & YACC). 
 
 This repo contains:-
 
