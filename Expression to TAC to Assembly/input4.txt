@@ -1,0 +1,6 @@
+T1 = 1
+T2 = 1
+if T2 > n goto END
+T1 = T1 * T2
+T2 = T2 + 1
+a = T1
